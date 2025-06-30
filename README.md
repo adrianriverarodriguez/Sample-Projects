@@ -1,4 +1,5 @@
 # Semantic Modeling – Community Responses
+This is a sample. All code was created then imported from Google Colab
 ## 🧾 Keyword Analysis & Thematic Seeding
 
 To support human thematic analysis and enrich the semantic modeling phase, I developed a custom keyword analysis pipeline:
